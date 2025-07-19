@@ -27,7 +27,7 @@ function Footer() {
                 <li><NavLink to="/about" className=" font-semibold">About</NavLink></li>
                 <li><NavLink to="/categories" className="font-semibold">Categories</NavLink></li>                
                 <li><NavLink to="/faqs" className="font-semibold">Faqs</NavLink></li>
-                <li><NavLink to="/contact" className="font-semibold">Contact</NavLink></li>
+                <li><NavLink to="/contact" className="font-semibold">Contact Us</NavLink></li>
                       
                       
                     </ul>
